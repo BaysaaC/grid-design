@@ -10,7 +10,7 @@
 2021-07-02 - Initializing the README and index.html files 
 
 ## Project type and goal:
-Type: exercice. <b> 
+Type: exercice. <br> 
 Goal:<br>
 1. Mimic a grid layout (example provided in the instructions). 
 1. Make the grid responsive and on mobile screens (< 768px).

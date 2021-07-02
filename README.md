@@ -17,7 +17,7 @@ Goal:<br>
 1. When hover mouse over the "learn more" button, make an animation and show a tooltip with some additional text.
 1. Publish result on Github page.
 <br>
-*Bonus:*
+*Bonus:*<br>
 1. Add a navigation sidebar to the left, with some dummy links in them.
 1. Style the navbar to your likings. (Maybe inspire yourself from one of your favorite websites?).
 1. Make the navbar dissapear on mobile.

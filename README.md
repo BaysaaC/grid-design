@@ -17,11 +17,11 @@ Goal:<br>
 1. When hover mouse over the "learn more" button, make an animation and show a tooltip with some additional text.
 1. Publish result on Github page.
 <br>
-**_ Bonus: _**
+*Bonus:*
 1. Add a navigation sidebar to the left, with some dummy links in them.
 1. Style the navbar to your likings. (Maybe inspire yourself from one of your favorite websites?).
 1. Make the navbar dissapear on mobile.
-**_ Extra-supra-mega-lastminute-Bonus: _**
+*Extra-supra-mega-lastminute-Bonus:*
 1. Make a functional Hamburger menu.
 
 
